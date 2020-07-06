@@ -90,7 +90,8 @@
         "pathConstraints": true
       },
       "ID": 1,
-      "description": "This malicious flow reads SMS content to fake text message for fishing."
+      "description": "This malicious flow reads SMS content to fake text message for fishing.",
+      "isNegative": false
     }
   ]
 }
